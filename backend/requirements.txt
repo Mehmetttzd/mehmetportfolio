@@ -1,6 +1,6 @@
 fastapi
 uvicorn[standard]
-pydantic
+pydantic[email]
 sqlalchemy
 databases
 python-multipart
@@ -14,3 +14,4 @@ llama-index
 llama-index-llms-openai
 llama-index-embeddings-openai
 python-dotenv
+email-validator>=2.1.0.post1
