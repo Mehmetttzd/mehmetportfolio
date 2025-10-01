@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+pydantic
+sqlalchemy
+databases
+python-multipart
+jinja2
+httpx
+pandas
+numpy
+pymongo
+psycopg2-binary
+llama-index
+llama-index-llms-openai
+llama-index-embeddings-openai
+python-dotenv
